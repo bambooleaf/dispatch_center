@@ -6,10 +6,10 @@
  * Time: 下午8:12
  */
 
-define('DB_HOST','rm-bp17i9701w1vw9v9qo.mysql.rds.aliyuncs.com');
-define('DB_DATABASE','pay_service');
-define('DB_USERNAME','mfashion');
-define('DB_PASSWORD','Mfashion888');
+define('DB_HOST','');
+define('DB_DATABASE','a');
+define('DB_USERNAME','a');
+define('DB_PASSWORD','a');
 
 
 
